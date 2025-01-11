@@ -1,6 +1,44 @@
 # **30 Days to Learn Laravel - Complete 8 Hour Course**
 [Watch on Youtube](https://www.youtube.com/watch?v=SqTdHCTWqks&t=19386s)
 ---
+# Table of Contents
+
+- [Introduction to Laravel](#module-1-introduction-to-laravel)
+- [First Route and View](#module-2-first-route-and-view)
+- [Layouts and Components](#module-3-layouts-and-components)
+- [TailwindCSS and Styling](#module-4-tailwindcss-and-styling)
+- [Database and Migrations](#module-5-database-and-migrations)
+- [Models and Eloquent](#module-6-models-and-eloquent)
+- [Relationships in Eloquent](#module-7-relationships-in-eloquent)
+- [Forms, Validation, and CSRF](#module-8-forms-validation-and-csrf)
+- [Authentication Basics](#module-9-authentication-basics)
+- [Advanced Validation Techniques](#module-10-advanced-validation-techniques)
+- [Editing, Updating, and Deleting](#module-11-editing-updating-and-deleting)
+- [Pagination](#module-12-pagination)
+- [Authorization and Policies](#module-13-authorization-and-policies)
+- [Queues and Jobs](#module-14-queues-and-jobs)
+- [Sending and Previewing Emails](#module-15-sending-and-previewing-emails)
+- [Blade and Tailwind Techniques](#module-16-blade-and-tailwind-techniques)
+- [Testing in Laravel](#module-17-testing-in-laravel)
+- [Deployment](#module-18-deployment)
+- [Building APIs with Laravel](#module-19-building-apis-with-laravel)
+- [Real-Time Applications with Laravel](#module-20-real-time-applications-with-laravel)
+- [Task Scheduling in Laravel](#module-21-task-scheduling-in-laravel)
+- [Advanced File Handling](#module-22-advanced-file-handling)
+- [Deployment to Cloud](#module-23-deployment-to-cloud)
+- [Laravel and Microservices](#module-24-laravel-and-microservices)
+- [Multi-Tenancy in Laravel](#module-25-multi-tenancy-in-laravel)
+- [Advanced Security Features](#module-26-advanced-security-features)
+- [Event Sourcing with Laravel](#module-27-event-sourcing-with-laravel)
+- [Advanced Frontend Integration](#module-28-advanced-frontend-integration)
+- [Custom Package Development](#module-29-custom-package-development)
+- [Laravel Octane for Performance](#module-30-laravel-octane-for-performance)
+- [Laravel for IoT Applications](#module-31-laravel-for-iot-applications)
+- [Internationalization (i18n)](#module-32-internationalization-i18n)
+- [Advanced API Development](#module-33-advanced-api-development)
+- [Capstone Project Ideas](#capstone-project-ideas)
+
+---
 
 ### **Module 1: Introduction to Laravel**
 #### **Objective:** 
